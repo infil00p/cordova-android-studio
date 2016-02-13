@@ -9,7 +9,7 @@ Apache and the licence is attached.
 
 How to use this code:
 
-1. Copy this in the root of your Android Studio project
+1. Copy the cordova directory to the root of your Android Studio project
 2. Make sure you've linked the modified cordova-lib and plugman as per the  
 contributor documentation found in cordova-lib
 3.Run plugman in the directory like a regular platform project.
