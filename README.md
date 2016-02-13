@@ -1,4 +1,4 @@
-=== cordova-common implementation for Android Studio 
+## cordova-common implementation for Android Studio 
 
 This is to be used with plugman and the studio_tools branch of CordovaLib.
 
